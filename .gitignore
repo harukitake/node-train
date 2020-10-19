@@ -1,0 +1,7 @@
+dist
+node_modules
+
+/docker/containers/mysql/db
+/docker/containers/mysql/log
+
+.idea
